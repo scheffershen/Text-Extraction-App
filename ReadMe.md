@@ -27,12 +27,16 @@ To install and run this application using Docker:
 
 1. **Clone the Repository:**
 
+```bash
     git clone https://github.com/scheffershen/text-extraction-app.git
     cd text-extraction-app
+```
 
 2. **Build the Docker Image:**
 
+```bash
     docker build -t text-extraction-app .
+```
 
 ## Usage 
 
