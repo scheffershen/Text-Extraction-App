@@ -1,0 +1,8 @@
+python-docx
+PyPDF2
+openpyxl
+extract-msg
+Pillow
+pytesseract
+xlrd
+pandas
