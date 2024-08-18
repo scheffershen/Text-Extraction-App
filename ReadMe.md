@@ -27,7 +27,7 @@ To install and run this application using Docker:
 
 1. **Clone the Repository:**
 
-    git clone https://github.com/yourusername/text-extraction-app.git
+    git clone https://github.com/scheffershen/text-extraction-app.git
     cd text-extraction-app
 
 2. **Build the Docker Image:**
